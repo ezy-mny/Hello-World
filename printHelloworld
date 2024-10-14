@@ -1,2 +1,1 @@
-echo 'hello world!'
-print('goodbye world')
+echo 'hello from run.sh!'
